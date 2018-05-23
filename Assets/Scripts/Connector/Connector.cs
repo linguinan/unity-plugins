@@ -4,4 +4,9 @@ using UnityEngine;
 
 public abstract class Connector {
 
+	public abstract void Hello();
+
+
+	
+
 }
