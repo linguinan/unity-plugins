@@ -1,4 +1,10 @@
-﻿
+﻿/*
+ * @Author: lgn 
+ * @Date: 2018-05-23 20:15:29 
+ * @Last Modified by:   lgn 
+ * @Last Modified time: 2018-05-23 20:15:29 
+ */
+
 using UnityEngine;
 
 public abstract class UnitySingleton<T> : MonoBehaviour where T : Component
